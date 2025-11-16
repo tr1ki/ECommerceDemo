@@ -1,0 +1,14 @@
+# Папки сборки
+build/
+cmake-build-debug/
+
+# Папка настроек CLion
+.idea/
+
+# Скомпилированные файлы
+*.exe
+*.dll
+*.o
+*.a
+*.obj
+*.so
